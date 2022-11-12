@@ -8,7 +8,6 @@ auth_token = "7919b3fe9d6206a52fbc63b2c828ae4a"
 client = Client(account_sid, auth_token)
 
 #Step by Step of solution
-#Open 6 files in Excel
 
 list_month= ['janeiro','fevereiro','março','abril','maio','junho']
 
